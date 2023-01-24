@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **TLYNT**
 
 - 🌱 I’m currently learning **Cloud Services**
-- 
+
 - 📫 How to reach me **mohitrohilla2696@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
