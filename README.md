@@ -2,10 +2,6 @@
 <h3 align="center">Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 
-- 🔭 I’m currently working on **TLYNT**
-
-- 🌱 I’m currently learning **Cloud Services**
-
 - 📫 Reach me at **mohitrohilla2696@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
